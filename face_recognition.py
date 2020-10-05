@@ -2,7 +2,7 @@
 """
 Created on Wed Aug 28 10:27:01 2019
 
-@author: Guest
+@author: Vilcsek Viktor
 """
 
     
